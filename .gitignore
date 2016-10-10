@@ -1,18 +1,350 @@
-*.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: alrc\n"
+"Language: pt-br\n"
 
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
+#: ../../library/admin/admin.php:353
+msgid "<div class=\"headway-update-backup-reminder alert-red alert\"><h3>Remember!</h3><p>Please backup before updating.  Headway Themes recommends <a href=\"%s\" target=\"_blank\"><strong>BackupBuddy</strong></a> for all backup and migration needs.</div>"
+msgstr ""
+
+#: ../../library/api/api-admin-meta-box.php:12
+msgid "Error: The meta box class being registered does not exist."
+msgstr ""
+
+#: ../../library/api/api-block.php:127
+msgid "Error: The block options class being registered does not exist."
+msgstr ""
+
+#: ../../library/api/api-box.php:12
+msgid "Error: The box class being registered does not exist."
+msgstr ""
+
+#: ../../library/api/api-element.php:125
+msgid "Error: Arguments must be an array for this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:150
+msgid "Error: An ID is required for this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:153
+msgid "Error: A name is required for this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:156
+msgid "Error: A group is required for this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:159
+msgid "Error: A CSS selector is required for this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:162
+msgid "Error: Properties are required for this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:201
+msgid "Error: Arguments must be an array for this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:217
+msgid "Error: An ID is required for this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:220
+msgid "Error: A name is required for this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:223
+msgid "Error: A group is required for this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:226
+msgid "Error: A parent element is required for this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:229
+msgid "Error: A CSS selector is required for this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:239
+msgid "Error: The element specified does not support instances."
+msgstr ""
+
+#: ../../library/api/api-element.php:265
+msgid "Error: The group being registered already exists."
+msgstr ""
+
+#: ../../library/api/api-element.php:281
+msgid "Error: Arguments must be an array for deregistering this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:293
+msgid "Error: A group is required for deregistering this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:296
+msgid "Error: An ID is required for deregistering this element."
+msgstr ""
+
+#: ../../library/api/api-element.php:318
+msgid "Error: Arguments must be an array for deregistering this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:331
+msgid "Error: A group is required for deregistering this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:334
+msgid "Error: An instance ID is required for deregistering this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:337
+msgid "Error: An element is required for deregistering this element instance."
+msgstr ""
+
+#: ../../library/api/api-element.php:357
+msgid "Error: The group being deregistered does not exist."
+msgstr ""
+
+#: ../../library/api/api-panel.php:12
+msgid "Error: The panel class being registered does not exist."
+msgstr ""
+
+#: ../../library/api/api-updater.php:168
+msgid "<div id=\"update-nag\">%s %s is now available, you're running %s! <a href=\"%s\">Click here to update</a> or <a href=\"%s\" target=\"_blank\">learn more</a> about the update.</div>"
+msgstr ""
+
+#: ../../library/api/api-updater.php:173
+msgid "<div id=\"update-nag\">%s %s is now available, you're running %s! Go to the <a href=\"%s\" target=\"_blank\">Headway Dashboard</a> to download the latest version or <a href=\"%s\" target=\"_blank\">learn more</a> about the update.</div>"
+msgstr ""
+
+#: ../../library/api/api-updater.php:185
+msgid "<div id=\"update-nag\">%s %s is now available, you're running %s!  Your Headway license has expired.  Please visit the <a href=\"%s\">Headway Dashboard</a> to renew your license so you can continue to receive updates.</div>"
+msgstr ""
+
+#: ../../library/api/api-updater.php:190
+msgid "<div id=\"update-nag\">%s %s is now available, you're running %s!  You will not be able to update until you enter a valid license key on the <a href=\"%s\">Headway Options</a> panel.</div>"
+msgstr ""
+
+#: ../../library/blocks/blocks.php:75
+msgid "The block class being registered does not exist."
+msgstr ""
+
+#: ../../library/blocks/blocks.php:627
+msgid "The Headway blocks array does not exist."
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:51
+msgid "Home"
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:94
+msgid "Search Results For:"
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:103
+msgid "Author Archives:"
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:110
+msgid "Tag Archives:"
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:117
+msgid "Archives:"
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:124
+msgid "Whoops! Page Not Found..."
+msgstr ""
+
+#: ../../library/blocks/breadcrumbs/breadcrumbs.php:132
+msgid "You Are Here:"
+msgstr ""
+
+#: ../../library/blocks/content/comments.php:28
+msgid "This post is password protected.  Please enter the password to view the comments."
+msgstr ""
+
+#: ../../library/blocks/content/comments.php:44
+msgid "No Responses"
+msgstr ""
+
+#: ../../library/blocks/content/comments.php:44
+msgid "One Response"
+msgstr ""
+
+#: ../../library/blocks/content/comments.php:44
+msgid "% Responses"
+msgstr ""
+
+#: ../../library/blocks/content/comments.php:45
+msgid "to"
+msgstr ""
+
+#: ../../library/blocks/content/comments.php:68
+msgid "Sorry, comments are closed for this post."
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:159
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:162
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:165
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:168
+msgid "Blog Archives"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:178
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:196
+#: ../../library/blocks/content/content-display.php:199
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:209
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:218
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:509
+msgid "Pages:"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:545
+msgid "Whoops!  Page Not Found"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:553
+msgid "<p>Don't fret, you didn't do anything wrong.  It appears that the page you are looking for does not exist or has been moved elsewhere.</p>"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:555
+msgid "<p>If you keep ending up here, please head back to our <a href=\"%s\">homepage</a> or try the search form below.</p>"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:621
+msgid "Discard Reply"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:647
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:648
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../../library/blocks/content/content-display.php:826
+msgid "<span class=\"tag-links\"><span>Tags:</span> "
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:118
+msgid "Administration Panel"
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:120
+msgid "Administration Login"
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:141
+msgid "Powered by Headway, the "
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:153
+msgid "Copyright"
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:169
+msgid "Go To Top"
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:191
+msgid "View Full Site"
+msgstr ""
+
+#: ../../library/blocks/footer/footer.php:198
+msgid "View Mobile Site"
+msgstr ""
+
+#: ../../library/common/compiler.php:331
+msgid "There was an error while Headway tried to compile the LESS CSS.  Full Error: "
+msgstr ""
+
+#: ../../library/common/functions.php:734
+msgid "Type to search, then press enter"
+msgstr ""
+
+#: ../../library/common/functions.php:762
+msgid "Search"
+msgstr ""
+
+#: ../../library/data/data-elements.php:62
+#: ../../library/data/data-elements.php:89
+#: ../../library/data/data-elements.php:170
+#: ../../library/data/data-elements.php:201
+#: ../../library/data/data-elements.php:230
+#: ../../library/data/data-elements.php:254
+msgid "The element ID is not registered."
+msgstr ""
+
+#: ../../library/display/grid-renderer.dev.php:964
+#: ../../library/display/grid-renderer.php:2
+msgid "No Content to Display"
+msgstr ""
+
+#: ../../library/display/grid-renderer.dev.php:970
+#: ../../library/display/grid-renderer.php:2
+msgid "<p>There are no blocks to display.  Add some by going to the <a href=\"%s\">Headway Grid</a>!</p>"
+msgstr ""
+
+#: ../../library/display/grid-renderer.dev.php:974
+#: ../../library/display/grid-renderer.php:2
+msgid "<p>There is no content to display.  Please notify the site administrator or <a href=\"%s\">login</a>.</p>"
+msgstr ""
+
+#: ../../library/fonts/traditional-fonts.php:119
+msgid "To register a font, the argument array must include an \"id\", \"stack\", and \"name\"."
+msgstr ""
+
+#: ../../library/visual-editor/panels/design/panel-default-elements.php:32
+msgid "Please select a default element to the left."
+msgstr ""
+
+#: ../../library/visual-editor/panels/design/panel-editor.php:115
+msgid "Please select an element to the left."
+msgstr ""
+
+#: text_domain
+#: 
+msgctxt "site"
+msgid "alrc"
+msgstr ""
+
+#: 
+msgctxt "40-fff8db9478d2fd72df65a67ee6b62f67"
+msgid "title"
+msgstr ""
+
+#: 
+msgctxt "Error"
+msgid "Error"
+msgstr ""
 
