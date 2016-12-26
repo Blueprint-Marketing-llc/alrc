@@ -5,8 +5,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: alrc\n"
-"Language: pt-br\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
 #: ../../library/admin/admin.php:353
 msgid "<div class=\"headway-update-backup-reminder alert-red alert\"><h3>Remember!</h3><p>Please backup before updating.  Headway Themes recommends <a href=\"%s\" target=\"_blank\"><strong>BackupBuddy</strong></a> for all backup and migration needs.</div>"
@@ -147,7 +147,7 @@ msgstr ""
 msgctxt "wpml
 "
 msgid "Home"
-msgstr ""
+msgstr "الرئيسية"
 
 #. new
 #: ../../library/blocks/breadcrumbs/breadcrumbs.php:94
@@ -196,6 +196,10 @@ msgid_plural "yes\n"
 ""
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 #: ../../library/blocks/content/comments.php:68
 msgid "Sorry, comments are closed for this post."
@@ -354,7 +358,7 @@ msgstr ""
 #: 
 msgctxt "40-fff8db9478d2fd72df65a67ee6b62f67"
 msgid "title"
-msgstr ""
+msgstr "site-logo"
 
 #: 
 msgctxt "Error"
@@ -364,12 +368,12 @@ msgstr ""
 #: 
 msgctxt "4-5d151d1059a6281335a10732fc49620e"
 msgid "title"
-msgstr ""
+msgstr "Advanced Search"
 
 #: 
 msgctxt "4-5d151d1059a6281335a10732fc49620e"
 msgid "body"
-msgstr ""
+msgstr "[acps_results]"
 
 #: 
 msgctxt "20-727081a4c5ad28479ce66658528274f7"
@@ -394,540 +398,541 @@ msgstr ""
 #. wpml-name: 7af37a70fa24eb018dec5125d4909643
 #: 
 msgid "EB-5 Program"
-msgstr ""
+msgstr "برنامج eb-5"
 
 #. wpml-name: e4fb6727348df45bac28884d842dab9c
 #: 
 msgid "Why Choose ALRC"
-msgstr ""
+msgstr "لماذا تختار المركز"
 
 #. wpml-name: be8df1f28c0abc85a0ed0c6860e5d832
 #: 
 msgid "Blog"
-msgstr ""
+msgstr "مداونة"
 
 #. wpml-name: f305b087e725a9f3782856e226fad14d
 #: 
 msgid "Current Projects"
-msgstr ""
+msgstr "المشاريع الحالية"
 
 #. wpml-name: bd6effd79c66ca69f2a24c1acb8a5f89
 #: 
+#, fuzzy
 msgid "EB-5 Process"
-msgstr ""
+msgstr "عملية eb-5"
 
 #. wpml-name: 0b84b379cc039459bf646b88e1abbd52
 #: 
 msgid "Benefits Of The EB-5 Program"
-msgstr ""
+msgstr "فوائد برنامج eb-5"
 
 #. wpml-name: 7ac153c571e36ca05bc7ee12af6690d0
 #: 
 msgid "What is an EB-5 Regional Center"
-msgstr ""
+msgstr "ما هو \"المركز الإقليمي\" eb-5"
 
 #. wpml-name: 68b9aaa84c841cef4d93d86fdeb1c736
 #: 
 msgid "EB-5 Visas"
-msgstr ""
+msgstr "تأشيرات EB-5"
 
 #. wpml-name: 3bbbad631029e3575da7a151bba4f37c
 #: 
 msgid "Log In"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 #. wpml-name: 9cfc9b74983d504ec71db33967591249
 #: 
 msgid "Contact Us"
-msgstr ""
+msgstr "اتصل بنا"
 
 #. wpml-name: cfe6e34a4c7f24aad32aa4299562f5b1
 #: 
 msgid "Home Page"
-msgstr ""
+msgstr "الصفحة الرئيسية"
 
 #. wpml-name: c39eaab018e2e16320836a210cab2617
 #: 
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "rtl"
 
 #. wpml-name: d445e4a26044411d024021a16f3b10ee
 #: 
 msgid "number_format_decimal_point"
-msgstr ""
+msgstr "number_format_decimal_point"
 
 #. wpml-name: 862b796393fb64766820ec1e33bfd9bd
 #: 
 msgid "number_format_thousands_sep"
-msgstr ""
+msgstr "number_format_thousands_sep"
 
 #. wpml-name: 21b7eb30013b04776f5b06bc59209391
 #: 
 msgid "PM"
-msgstr ""
+msgstr "مساءً"
 
 #. wpml-name: 25ec916d56b8212e569dbf2e4e4b51d4
 #: 
 msgid "AM"
-msgstr ""
+msgstr "صباحًا"
 
 #. wpml-name: 5109d85d95fece7816d9704e6e5b1279
 #: 
 msgid "pm"
-msgstr ""
+msgstr "م"
 
 #. wpml-name: c04cd38aeb30f3ad1f8ab4e64a0ded7b
 #: 
 msgid "am"
-msgstr ""
+msgstr "ص"
 
 #. wpml-name: cc6a9ff21ef7c0cd6318a782508f3c59
 #: 
 msgid "Dec_December_abbreviation"
-msgstr ""
+msgstr "Dec_December_abbreviation"
 
 #. wpml-name: 118d7993c5aded1faa0583095fac0f89
 #: 
 msgid "Nov_November_abbreviation"
-msgstr ""
+msgstr "Nov_November_abbreviation"
 
 #. wpml-name: ee4fa62276ab5e609f4c19827957f3a3
 #: 
 msgid "Oct_October_abbreviation"
-msgstr ""
+msgstr "Oct_October_abbreviation"
 
 #. wpml-name: 38569de1a2db173d7c1c1baea24edde8
 #: 
 msgid "Sep_September_abbreviation"
-msgstr ""
+msgstr "Sep_September_abbreviation"
 
 #. wpml-name: abd3008b12c080f09f40c0d0d46aa5d9
 #: 
 msgid "Aug_August_abbreviation"
-msgstr ""
+msgstr "Aug_August_abbreviation"
 
 #. wpml-name: 9c31f3eeb0fc1f46d70126273cb972d4
 #: 
 msgid "Jul_July_abbreviation"
-msgstr ""
+msgstr "Jul_July_abbreviation"
 
 #. wpml-name: 252278a2cd443f7f042d48063429be78
 #: 
 msgid "Jun_June_abbreviation"
-msgstr ""
+msgstr "Jun_June_abbreviation"
 
 #. wpml-name: 087bc523b6da106377da033e4a4a18df
 #: 
 msgid "May_May_abbreviation"
-msgstr ""
+msgstr "May_May_abbreviation"
 
 #. wpml-name: a099803dca47a365c86ed6220ca3797e
 #: 
 msgid "Apr_April_abbreviation"
-msgstr ""
+msgstr "Apr_April_abbreviation"
 
 #. wpml-name: a65520a4d31e3375d751893b9e5b41b7
 #: 
 msgid "Mar_March_abbreviation"
-msgstr ""
+msgstr "Mar_March_abbreviation"
 
 #. wpml-name: 41d00f37238e4919998bfe097e066c4d
 #: 
 msgid "Feb_February_abbreviation"
-msgstr ""
+msgstr "Feb_February_abbreviation"
 
 #. wpml-name: 261b8bfba31955859768bc4e801db630
 #: 
 msgid "Jan_January_abbreviation"
-msgstr ""
+msgstr "Jan_January_abbreviation"
 
 #. wpml-name: 82331503174acbae012b2004f6431fa5
 #: 
 msgid "December"
-msgstr ""
+msgstr "ديسمبر"
 
 #. wpml-name: 7e823b37564da492ca1629b4732289a8
 #: 
 msgid "November"
-msgstr ""
+msgstr "نوفمبر"
 
 #. wpml-name: eca60ae8611369fe28a02e2ab8c5d12e
 #: 
 msgid "October"
-msgstr ""
+msgstr "أكتوبر"
 
 #. wpml-name: cc5d90569e1c8313c2b1c2aab1401174
 #: 
 msgid "September"
-msgstr ""
+msgstr "سبتمبر"
 
 #. wpml-name: 41ba70891fb6f39327d8ccb9b1dafb84
 #: 
 msgid "August"
-msgstr ""
+msgstr "أغسطس"
 
 #. wpml-name: 1b539f6f34e8503c97f6d3421346b63c
 #: 
 msgid "July"
-msgstr ""
+msgstr "يوليو"
 
 #. wpml-name: 688937ccaf2a2b0c45a1c9bbba09698d
 #: 
 msgid "June"
-msgstr ""
+msgstr "يونيو"
 
 #. wpml-name: 195fbb57ffe7449796d23466085ce6d8
 #: 
 msgid "May"
-msgstr ""
+msgstr "مايو"
 
 #. wpml-name: 3fcf026bbfffb63fb24b8de9d0446949
 #: 
 msgid "April"
-msgstr ""
+msgstr "أبريل"
 
 #. wpml-name: fa3e5edac607a88d8fd7ecb9d6d67424
 #: 
 msgid "March"
-msgstr ""
+msgstr "مارس"
 
 #. wpml-name: 659e59f062c75f81259d22786d6c44aa
 #: 
 msgid "February"
-msgstr ""
+msgstr "فبراير"
 
 #. wpml-name: 86f5978d9b80124f509bdb71786e929e
 #: 
 msgid "January"
-msgstr ""
+msgstr "يناير"
 
 #. wpml-name: 13c7d2d737f81f7bf89aed9fbcd0ad55
 #: 
 msgid "Sat"
-msgstr ""
+msgstr "السبت"
 
 #. wpml-name: ac616f844b9a5ea5a827bf7fb99b1ad5
 #: 
 msgid "Fri"
-msgstr ""
+msgstr "الجمعة"
 
 #. wpml-name: ed5e8353dfc585f4c6b3a55d1a9fc01d
 #: 
 msgid "Thu"
-msgstr ""
+msgstr "الخميس"
 
 #. wpml-name: 510c292b1686eb070d9e90a575f74106
 #: 
 msgid "Wed"
-msgstr ""
+msgstr "الأربعاء"
 
 #. wpml-name: 2ddecde85408faf230652444db78cb72
 #: 
 msgid "Tue"
-msgstr ""
+msgstr "الثلاثاء"
 
 #. wpml-name: fd29458ae58ac32a2d8734ed90ad51ec
 #: 
 msgid "Mon"
-msgstr ""
+msgstr "الإثنين"
 
 #. wpml-name: ef6572e4cd58bb39a3f4e82fc64fe9f0
 #: 
 msgid "Sun"
-msgstr ""
+msgstr "الأحد"
 
 #. wpml-name: c288d0b5f13e167c13f37a9a3c2190f2
 #: 
 msgid "S_Saturday_initial"
-msgstr ""
+msgstr "S_Saturday_initial"
 
 #. wpml-name: f55a9e51f324cba25700b7022e22d873
 #: 
 msgid "F_Friday_initial"
-msgstr ""
+msgstr "F_Friday_initial"
 
 #. wpml-name: 1594d08f0bbd717b061da4254623214f
 #: 
 msgid "T_Thursday_initial"
-msgstr ""
+msgstr "T_Thursday_initial"
 
 #. wpml-name: 9719e16ea05051a98851954a5996ffd3
 #: 
 msgid "W_Wednesday_initial"
-msgstr ""
+msgstr "W_Wednesday_initial"
 
 #. wpml-name: ef6e12fc4240d030f376be5b6fdbac29
 #: 
 msgid "T_Tuesday_initial"
-msgstr ""
+msgstr "T_Tuesday_initial"
 
 #. wpml-name: 6ae5acdfe6d14ddda658d2cf75c071ee
 #: 
 msgid "M_Monday_initial"
-msgstr ""
+msgstr "M_Monday_initial"
 
 #. wpml-name: ae8dae70180844a5731caa811ef950dd
 #: 
 msgid "S_Sunday_initial"
-msgstr ""
+msgstr "S_Sunday_initial"
 
 #. wpml-name: 8b7051187b9191cdcdae6ed5a10e5adc
 #: 
 msgid "Saturday"
-msgstr ""
+msgstr "السبت"
 
 #. wpml-name: c33b138a163847cdb6caeeb7c9a126b4
 #: 
 msgid "Friday"
-msgstr ""
+msgstr "الجمعة"
 
 #. wpml-name: 78ae6f0cd191d25147e252dc54768238
 #: 
 msgid "Thursday"
-msgstr ""
+msgstr "الخميس"
 
 #. wpml-name: 796c163589f295373e171842f37265d5
 #: 
 msgid "Wednesday"
-msgstr ""
+msgstr "الأربعاء"
 
 #. wpml-name: 5792315f09a5d54fb7e3d066672b507f
 #: 
 msgid "Tuesday"
-msgstr ""
+msgstr "الثلاثاء"
 
 #. wpml-name: 6f8522e0610541f1ef215a22ffa66ff6
 #: 
 msgid "Monday"
-msgstr ""
+msgstr "الإثنين"
 
 #. wpml-name: 9d1a0949c39e66a0cd65240bc0ac9177
 #: 
 msgid "Sunday"
-msgstr ""
+msgstr "الأحد"
 
 #. wpml-name: 4dea1c73da82d313ca79c4025b5ae4fe
 #: 
 msgid "Settings have been successfully updated"
-msgstr ""
+msgstr "تم تحديث إعداداتك."
 
 #. wpml-name: 1fe917b01f9a3f87fa2d7d3b7643fac1
 #: $labels = array( 'name' => _x( 'FAQs', 'Post Type General Name', 'amlib' ),
 #: 'singular_name' 'FAQ', Singular
 msgctxt "Post Type Singular Name"
 msgid "FAQ"
-msgstr ""
+msgstr "الأسئلة الأكثر شيوعا"
 
 #. wpml-name: 483a5da192f46e3cfe8391d3ef234fc4
 #: $labels = array( 'name' => _x( 'FAQs', 'Post Type General Name', 'amlib' ),
 msgctxt "Post Type General Name"
 msgid "FAQs"
-msgstr ""
+msgstr "الأسئة الأكثر شيوعًا"
 
 #. wpml-name: 4ce244c748c4e9755d0e3f4fbd512539
 #: $labels = array( 'name' => _x( 'Question Cats', 'Taxonomy General Name',
 #: 'amlib' ), 'singular_name' Cat', Singular
 msgctxt "Taxonomy Singular Name"
 msgid "Question Cat"
-msgstr ""
+msgstr "سؤال القط"
 
 #. wpml-name: ae103cbc7e889ad096964db64fed5fb1
 #: $labels = array( 'name' => _x( 'Question Cats', 'Taxonomy General Name',
 #: 'amlib' ),
 msgctxt "Taxonomy General Name"
 msgid "Question Cats"
-msgstr ""
+msgstr "سؤال القطط"
 
 #. wpml-name: 5405d8a903c83e89cb649f1b518ef1be
 #: $args = array( 'label' => __( 'faqs', 'amlib' ), 'description' 'Frequently
 #: Asked Questions',
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "الأسئلة الأكثر شيوعاً"
 
 #. wpml-name: 6da8c9e2732fa8d24c7da01bbacdd3de
 #: ); $args = array( 'label' => __( 'faqs', 'amlib' ),
 msgid "faqs"
-msgstr ""
+msgstr "المساعدة"
 
 #. wpml-name: 912f42b76bbd83121cd8298800d56b44
 #: 'search_items' => __( 'Search FAQ', 'amlib' ), 'not_found' 'Not found',
 #: 'not_found_in_trash' found in Trash',
 msgid "Not found in Trash"
-msgstr ""
+msgstr "لا يوجد في سلة المهملات"
 
 #. wpml-name: 9e076f5885f5cc16a4b5aeb8de4adff5
 #: 'update_item' => __( 'Update FAQ', 'amlib' ), 'search_items' 'Search
 #: 'not_found' 'Not found',
 msgid "Not found"
-msgstr ""
+msgstr "غير موجود"
 
 #. wpml-name: 02bf6d7f3025b061c97e955445f586cc
 #: 'edit_item' => __( 'Edit FAQ', 'amlib' ), 'update_item' 'Update
 #: 'search_items' 'Search
 msgid "Search FAQ"
-msgstr ""
+msgstr "البحث في التعليمات"
 
 #. wpml-name: 1af154961e0181b7b20d97580347bd80
 #: 'add_new' => __( 'Add FAQ', 'amlib' ), 'edit_item' 'Edit 'update_item'
 #: 'Update
 msgid "Update FAQ"
-msgstr ""
+msgstr "تحديث أسئلة وأجوبة"
 
 #. wpml-name: 0245ee728c1d1a0b6f614ece92686fba
 #: 'add_new_item' => __( 'Add New FAQ', 'amlib' ), 'add_new' 'edit_item' 'Edit
 msgid "Edit FAQ"
-msgstr ""
+msgstr "تعديل السؤال والجواب"
 
 #. wpml-name: fe90d72a62b2b97be43b179de76dd9f2
 #: 'view_item' => __( 'View FAQ', 'amlib' ), 'add_new_item' 'Add New 'add_new'
 msgid "Add FAQ"
-msgstr ""
+msgstr "إضافة أسئلة وأجوبة"
 
 #. wpml-name: 8afdc8b2a660a8665d9be781e9ada0cd
 #: 'all_items' => __( 'All FAQs', 'amlib' ), 'view_item' 'View FAQ',
 #: 'add_new_item' 'Add New
 msgid "Add New FAQ"
-msgstr ""
+msgstr "أضف سؤال وجواب جديد"
 
 #. wpml-name: a02fd4f422d8ea7d09cbd0bc5522c928
 #: 'parent_item_colon' => __( 'Parent FAQ:', 'amlib' ), 'all_items' 'All FAQs',
 #: 'view_item' 'View FAQ',
 msgid "View FAQ"
-msgstr ""
+msgstr "مشاهدة السؤال والجواب"
 
 #. wpml-name: 1c72b578e268509d94bd58e96a5e0437
 #: 'menu_name' => __( 'FAQs', 'amlib' ), 'parent_item_colon' 'Parent FAQ:',
 #: 'all_items' 'All FAQs',
 msgctxt "ACF"
 msgid "All FAQs"
-msgstr ""
+msgstr "جميع الأسئلة"
 
 #. wpml-name: e2a8b0e1f4d70522598c975ed7eae2d0
 #: 'singular_name' => _x( 'FAQ', 'Post Type Singular Name', 'amlib' ),
 #: 'menu_name' __( 'FAQs', 'parent_item_colon' 'Parent FAQ:',
 msgctxt "ACF"
 msgid "Parent FAQ:"
-msgstr ""
+msgstr "الأصل الأسئلة الشائعة:"
 
 #. wpml-name: 483a5da192f46e3cfe8391d3ef234fc4
 #: 'name' => _x( 'FAQs', 'Post Type General Name', 'amlib' ), 'singular_name'
 #: 'FAQ', Singular 'menu_name' __(
 msgid "FAQs"
-msgstr ""
+msgstr "التعليمات"
 
 #. wpml-name: 9d1ead73e678fa2f51a70a933b0bf017
 #: 'add_or_remove_items' => __( 'Add or remove categories', 'amlib' ),
 #: 'choose_from_most_used' 'Choose from the most used items', 'not_found' 'Not
 #: Found',
 msgid "Not Found"
-msgstr ""
+msgstr "نەمدۆزیەوە"
 
 #. wpml-name: cecc0ac394cd927ba5f9d6d0b8cb74fd
 #: 'search_items' => __( 'Search Categories', 'amlib' ), 'add_or_remove_items'
 #: 'Add or remove categories', 'choose_from_most_used' 'Choose from the most
 #: used items',
 msgid "Choose from the most used items"
-msgstr ""
+msgstr "اختر من الأصناف الأكثر استخداماً"
 
 #. wpml-name: b6fe2338a55b95483f0380d5c36db23c
 #: 'separate_items_with_commas' => __( 'Separate categories with commas',
 #: 'amlib' ), 'search_items' 'Search Categories', 'add_or_remove_items' 'Add or
 #: remove categories',
 msgid "Add or remove categories"
-msgstr ""
+msgstr "إضافة أو حذف أقسام"
 
 #. wpml-name: 547d406d2d88b3851d13a6850a72f81a
 #: 'update_item' => __( 'Update Category', 'amlib' ),
 #: 'separate_items_with_commas' 'Separate categories with commas',
 #: 'search_items' 'Search Categories',
 msgid "Search Categories"
-msgstr ""
+msgstr "بحث التصنيفات"
 
 #. wpml-name: 30bd40db6897b2476e126ceedfd4a4ef
 #: 'edit_item' => __( 'Edit Category', 'amlib' ), 'update_item' 'Update
 #: 'separate_items_with_commas' 'Separate categories with commas',
 msgid "Separate categories with commas"
-msgstr ""
+msgstr "افصل بين الأقسام بالفاصلة"
 
 #. wpml-name: 17f72185527df754fda2147fe9214a68
 #: 'add_new_item' => __( 'Add New Category', 'amlib' ), 'edit_item' 'Edit
 #: 'update_item' 'Update
 msgid "Update Category"
-msgstr ""
+msgstr "تحديث التصنيف"
 
 #. wpml-name: 176bf027c77f1139b35c26a2b0641497
 #: 'new_item_name' => __( 'New Category', 'amlib' ), 'add_new_item' 'Add New
 #: 'edit_item' 'Edit
 msgid "Edit Category"
-msgstr ""
+msgstr "تحرير التصنيف"
 
 #. wpml-name: 3eccdfd36e2570f5ce58a84fb9f820d9
 #: 'parent_item_colon' => __( 'Parent Item:', 'amlib' ), 'new_item_name' 'New
 #: Category', 'add_new_item' 'Add New
 msgid "Add New Category"
-msgstr ""
+msgstr "إضافة تصنيف جديدة"
 
 #. wpml-name: 4223dfcd18217eff4b6de709a9b27f19
 #: 'parent_item' => __( 'Parent Category', 'amlib' ), 'parent_item_colon'
 #: Item:', 'new_item_name' 'New
 msgid "New Category"
-msgstr ""
+msgstr "صنف جديد"
 
 #. wpml-name: 77b20cc1a5bac2170174f444efdd9d06
 #: 'all_items' => __( 'All Categories', 'amlib' ), 'parent_item' 'Parent
 #: Category', 'parent_item_colon' Item:',
 msgid "Parent Item:"
-msgstr ""
+msgstr "طباعة الصفحة"
 
 #. wpml-name: 4e98e60e38a29ab7bd94ea815c4f2ef2
 #: 'menu_name' => __( 'Question Category', 'amlib' ), 'all_items' 'All
 #: Categories', 'parent_item' 'Parent
 msgid "Parent Category"
-msgstr ""
+msgstr "القسم الرئيسى"
 
 #. wpml-name: a6a2a55bea8760389dfca77132905b7c
 #: 'singular_name' => _x( 'Question Cat', 'Taxonomy Singular Name', 'amlib' ),
 #: 'menu_name' __( Category', 'all_items' 'All Categories',
 msgid "All Categories"
-msgstr ""
+msgstr "جميع التصنيفات"
 
 #. wpml-name: 7a49ee198045a894cd0f359240e5c697
 #: 'name' => _x( 'Question Cats', 'Taxonomy General Name', 'amlib' ),
 #: 'singular_name' Cat', Singular 'menu_name' __( Category',
 msgid "Question Category"
-msgstr ""
+msgstr "قسم السؤال"
 
 #. wpml-name: 5d8c5549a33065561f0beeb6741bd8e9
 #: 'name' => __( 'Right Sidebar Widget Area', 'amlib' ), 'id' 'right-sidebar',
 #: 'description' 'Appears on the right side of blog index.',
 msgid "Appears on the right side of the blog index."
-msgstr ""
+msgstr "يظهر على الجانب الأيمن من الفهرس بلوق."
 
 #. wpml-name: 55361e0a814e715deccf0fb38507160e
 #: register_sidebar( array( 'name' => __( 'Right Sidebar Widget Area', 'amlib'
 #: ),
 msgid "Right Sidebar Widget Area"
-msgstr ""
+msgstr "مساحة القطعة الحق في الشريط الجانبي"
 
 #. wpml-name: 1b0c023985fe0db723a86c19e1b60d93
 #: 'primary-nav' => __( 'Primary Navigation', 'amlib' ), 'top-links' 'Top Bar
 #: Links', 'footer-links' 'Footer 'amlib'),
 msgid "Footer Links"
-msgstr ""
+msgstr "قائمة  التذييل"
 
 #. wpml-name: 6117ef98382c8f32c9c7995235130ea1
 #: register_nav_menus( array( 'primary-nav' => __( 'Primary Navigation',
 #: 'amlib' ), 'top-links' 'Top Bar Links',
 msgctxt "top nav"
 msgid "Top Bar Links"
-msgstr ""
+msgstr "أعلى شريط الارتباطات"
 
 #. wpml-name: 062e23974f590235ee391b5085862625
 #: // This theme uses wp_nav_menu() in two locations. register_nav_menus(
 #: array( 'primary-nav' => __( 'Primary Navigation', 'amlib' ),
 msgid "Primary Navigation"
-msgstr ""
+msgstr "القائمة الرئيسية"
 
 #: 
 msgctxt "ar "
@@ -937,23 +942,23 @@ msgstr ""
 #. wpml-name: 8cf04a9734132302f96da8e113e80ce5
 #: 
 msgid "Home"
-msgstr ""
+msgstr "الرئيسية"
 
 #. wpml-name: 1c72b578e268509d94bd58e96a5e0437
 #: 'menu_name' => __( 'FAQs', 'amlib' ), 'parent_item_colon' 'Parent FAQ:',
 #: 'all_items' 'All FAQs',
 msgid "All FAQs"
-msgstr ""
+msgstr "جميع الأسئلة"
 
 #. wpml-name: e2a8b0e1f4d70522598c975ed7eae2d0
 #: 'singular_name' => _x( 'FAQ', 'Post Type Singular Name', 'amlib' ),
 #: 'menu_name' __( 'FAQs', 'parent_item_colon' 'Parent FAQ:',
 msgid "Parent FAQ:"
-msgstr ""
+msgstr "الأصل الأسئلة الشائعة:"
 
 #. wpml-name: 6117ef98382c8f32c9c7995235130ea1
 #: register_nav_menus( array( 'primary-nav' => __( 'Primary Navigation',
 #: 'amlib' ), 'top-links' 'Top Bar Links',
 msgid "Top Bar Links"
-msgstr ""
+msgstr "أعلى شريط الارتباطات"
 
